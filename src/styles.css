@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: chartreuse;
+}
+
+.carrousel {
+  width: 80%;
+  height: 50vh;
+}
+
+
+#print{ 
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
